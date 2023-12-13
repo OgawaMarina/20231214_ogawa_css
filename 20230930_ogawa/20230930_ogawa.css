@@ -1,0 +1,69 @@
+h1.title{
+    float: left;
+    color: #000080;
+}
+
+nav{
+    float: right;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.home{
+    font-size: 15px;
+    font-weight: bold;
+    float: left;
+    margin: 10px 8px;
+    color: #000080;
+}
+
+.zigyonaiyo {
+    font-size: 15px;
+    font-weight: bold;
+    float: left;
+    margin: 10px 8px;
+    color: #000080;
+}
+
+.saiyozyoho{
+    font-size: 15px;
+    font-weight: bold;
+    float: left;
+    margin: 10px 8px;
+    color: #000080;
+}
+
+.otoiawase{
+    font-size: 15px;
+    font-weight: bold;
+    float: left;
+    margin: 10px 8px;
+    color: #000080;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main_left{
+    transform: translate(0px, 280px);
+}
+
+.main_letf_text{
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+.main_left_line{
+    width: 70%;
+    height: 150px;
+    background-color: #240595;
+}
+
+.image{
+    float: right;
+    transform: translate(0px, -250px);
+}
